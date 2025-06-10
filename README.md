@@ -31,6 +31,7 @@ then in order to maintain uniform length we used pad-sequence and max_length, af
 
 streamlit.io
 
+https://imdb-movie-review-sentiment-classifier-akeaadsludjl2thgmiqw7p.streamlit.app/
 
 ## REFERENCES
 https://keras.io/api/losses/probabilistic_losses/#binarycrossentropy-class
