@@ -8,7 +8,8 @@ tensorflow==2.12.0
 numpy==1.23.5
 
 ### PLATFORMS TO USE
-vs code (use if you are having powerful machine)
+vs code 
+
 google colab (Recommended Use T4 GPU for fast performance)
 
 ## WORKING OF THE MODEL
